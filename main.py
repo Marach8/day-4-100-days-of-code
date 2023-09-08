@@ -5,7 +5,7 @@ print()
 a = input('\033[32mWhat is your name?\033[0m ')
 b = input("\033[31mWhat is your worst enemy's name? ")
 c = input('What is your superpower? \033[0m')
-d = input('\033[32mWhere do you live? ')
+d = input('\033[32mWhere do you live?. ')
 e = input('What is your favorite food? \033[0m')
 print()
 print(f'''
